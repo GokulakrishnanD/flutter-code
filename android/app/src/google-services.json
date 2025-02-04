@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "141555068699",
+    "firebase_url": "https://thirantask-29ae7-default-rtdb.firebaseio.com",
+    "project_id": "thirantask-29ae7",
+    "storage_bucket": "thirantask-29ae7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141555068699:android:32285e355d6d71017d2dbe",
+        "android_client_info": {
+          "package_name": "com.example.thirantechtask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA91OGxqudP0ubnVIfA0fNxmUCnJyIroOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
